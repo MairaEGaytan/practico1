@@ -15,7 +15,7 @@ function getCountryByIso3(isoCode){
  * @returns {string}
  */
 function getCountryTranslatedName(isoCode, language){
-    //Complete with your code
+    return ['traslations'];
 }
 /**Get an array of all the countries with the specified subregion
  * @param  {string} subregion
