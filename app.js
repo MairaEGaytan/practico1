@@ -5,7 +5,7 @@ const countries = require('./countries.json');
  * @returns {Object}
  */
 function getCountryByIso3(isoCode){
-    //Complete with your code
+   return ['id', 'name', 'iso3', 'iso2', 'numeric_code','phone_code', 'capital', 'currency', 'currency_symbol','tld', 'native', 'region', 'subregion', 'timezone', 'translation'];
 }
 
 /**
